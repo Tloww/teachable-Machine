@@ -17,7 +17,7 @@ The goal is to classify images into two categories: **Rose** and **Lily**.
    Exported the model in **Keras (.h5)** format and downloaded the `labels.txt` file.  
 
 4. **Wrote Python Code**  
-   Created a Python script (`predict.py`) that loads the model, processes an input image, and predicts the class.  
+   Created a Python script (`test3.py`) that loads the model, processes an input image, and predicts the class.  
 
 5. **Tested the Model**  
    - Tested with a **Lily** image → model prediction shown in screenshot 1.  
@@ -28,8 +28,9 @@ I took screenshots of the terminal outputs to show the predictions.
 
 
 # Screenshots
-### 1) Lily Prediction
-![Lily Output](Screenshot%202025-10-17%20035416.png)
-### 2) Rose Prediction
+
+### 1) Rose Prediction
 ![Rose Output](Screenshot%202025-10-17%20034740.png)
+### 2) Lily Prediction
+![Lily Output](Screenshot%202025-10-17%20035416.png)
 
